@@ -1,0 +1,2 @@
+# OpenOCD-CS32
+ OpenOCD config for CS32F103C8T6 (CKSF103C8T6) 
